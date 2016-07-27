@@ -1,0 +1,72 @@
+.row-header{
+	margin: 0px auto;
+	padding: 0px auto;
+}
+
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 300px;
+}
+
+.row-footer{
+	background-color: #27AE60;
+	margin: 0px auto;
+	padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+	padding: 70px 30px 70px 30px;
+	margin: 0px auto;
+	background-color: #2ECC71;
+	color: floralwhite;
+	min-height: 200px;
+}
+
+address{
+	font-size: 80%;
+	margin: 0px;
+	color: #0f0f0f;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+span{
+	padding: 1px 1px 1px 1px;
+	margin:1px auto;
+}
+.nav li a{
+	display: inline-flex;
+}
+.nav li p{
+	margin: 0px 5px;
+}
+.progress{
+	width: 90%;
+}
+.link li a{
+	text-decoration: none;
+	color: #fff;
+}
+.copy{
+	background-color: #222;
+	min-height: 50px;
+}
+.prefooter{
+	min-height: 200px;
+}
+.logo{
+	width: 35px;
+}
+.mylogo{
+	max-width: 150px;
+}
+h2{
+	margin-bottom: 40px;
+}
+p{
+	font-size: 1.5em;
+}
